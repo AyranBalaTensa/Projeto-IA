@@ -19,9 +19,9 @@ body {
 .caixa-principal{
     background-color: var(--cor-principal);
     width: 100%;
-    max-width: 1200px;
+    max-width: 900px;
     text-align: center;
-    padding: 40px;
+    padding: 200px;
 }
 
 h1{
